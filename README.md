@@ -11,7 +11,9 @@ Reppositório para armazenar resumos sobre Git e GitHub do curso Versionamento d
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no Repositório Local | [Resumos]
+| Aula 1 | [resumo] () |
+| Aula 2 | [resumo] () |
+
 (https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f3cbaa66-efbd-4c25-842e-2069c188c066?back=/track/desenvolvimento-backend-com-kotlin&tab=undefined&moduleId=undefined)
 
 ...
